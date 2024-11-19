@@ -166,7 +166,7 @@ Technology Stack:
 
 Team Members:
 
------1.Kayalvizhi S
+-----1.Kayalvizhi T
 
 -----2.Gayathri P
 
