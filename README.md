@@ -4,6 +4,8 @@ Overview:
 
 This CRM Application is designed to streamline client and project management for engineering works. Built on the Salesforce platform, the application offers robust features for managing client details, material requirements, and pricing. It ensures accurate tracking of workflows like Fabrication, Shed Construction, and Pipe Lining, making it an essential tool for engineering businesses.
 
+Demo Video Link:  https://youtu.be/sl7i0e0cO7w
+
 Category:
 
 Salesforce Developer
